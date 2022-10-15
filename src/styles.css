@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: blueviolet;
+}
+input {
+  padding: 10px 40px;
+}
+span {
+  font-size: 2rem;
+  padding: 2px 5px;
+  cursor: pointer;
+}
